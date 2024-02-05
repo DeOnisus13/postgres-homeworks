@@ -7,7 +7,7 @@ db_params = {
     'host': 'localhost',
     'database': 'north',
     'user': 'postgres',
-    'password': '050305'
+    'password': '1337228'
 }
 
 
